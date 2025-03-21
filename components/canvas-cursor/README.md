@@ -5,6 +5,8 @@ The **Canvas Cursor Component** is a React-based interactive effect that creates
 - **useCanvasCursor Hook**: Handles animation logic.
 - **Oscillator & Line Classes**: Control physics-based movement.
 
+![canvas-cursor](../../canvas-cursor.gif)
+
 ### Component Structure
 
 ```mermaid

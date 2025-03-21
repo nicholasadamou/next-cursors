@@ -15,6 +15,16 @@ Read their respective READMEs in:
 * [components/canvas-cursor](components/canvas-cursor)
 * [components/fluid-cursor](components/fluid-cursor)
 
+## Demos
+
+You can view a live demo of:
+
+* _Canvas Cursor_ [here](https://next-cursors-sandy.vercel.app/canvas-cursor).
+* _Fluid Cursor_ [here](https://next-cursors-sandy.vercel.app/fluid-cursor).
+
+![canvas-cursor](./canvas-cursor.gif)
+_Canvas Cursor_
+
 ## Getting Started
 
 Learn how to get _Next Cursors_ up and running for development.
@@ -45,6 +55,12 @@ pnpm install
 ```sh
 pnpm dev
 ```
+
+**Visit _`canvas-cursor`_ or _`fluid_cursor`_ Pages**
+
+To access _canvas-cursor_ page: `localhost:3000/canvas-cursor`.
+
+To access _fluid_cursor_ page: `localhost:3000/fluid-cursor`.
 
 ### Deployment
 
